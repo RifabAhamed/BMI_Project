@@ -1,9 +1,10 @@
 # BMI & Health Risk Calculator
 
 ## Group Members
-* Rishinath K - EG/2020/4165
+* Jathusan U - EG/2020/3977
 * Rusham M.G.R.M.M - EG/2020/4170
 * Ahamed M.R.R - EG/2020/4353
+* Rishinath K - EG/2020/4165
 
 ## Project Overview
 This application processes patient data to calculate Body Mass Index (BMI) and categorize health risks. It demonstrates Functional Programming principles by using an immutable pipeline to transform raw input strings into structured health reports.
